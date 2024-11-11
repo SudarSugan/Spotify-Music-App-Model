@@ -1,10 +1,9 @@
 import ReactDOM from "react-dom/client";
 import React from "react";
-// import App from './App.jsx'
 import './index.css'
 import Router from './router.jsx'
 import { ClerkProvider } from "@clerk/clerk-react";
-// import Test from "./Component/test.jsx";
+
 
 
 // Import your publishable key

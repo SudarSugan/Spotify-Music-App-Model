@@ -1,5 +1,3 @@
-// import React, { createContext, useState } from 'react'
-// import { useState } from 'react';
 import { createContext, useState } from 'react';
 import { data } from '../assets/assets';
 

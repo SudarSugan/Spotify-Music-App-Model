@@ -1,5 +1,4 @@
 import NavBar from './Pages/NavBar'
-// import Home from './Pages/Home'
 import Footer from './Pages/Footer'
 import { Outlet } from 'react-router-dom'
 
